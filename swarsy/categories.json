@@ -1,39 +1,14 @@
 {
   "categories": [
     {
-      "category_en": "alwalidayinsy",
-      "category_ar": "alwalidayinsy",
-      "totla": 998
+      "category_en": "sabahiyatsy",
+      "category_ar": "sabahiyatsy",
+      "totla": 3059
     },
     {
-      "category_en": "analabsy",
-      "category_ar": "analabsy",
-      "totla": 994
-    },
-    {
-      "category_en": "analakhsy",
-      "category_ar": "analakhsy",
-      "totla": 263
-    },
-    {
-      "category_en": "analakhtsy",
-      "category_ar": "analakhtsy",
-      "totla": 647
-    },
-    {
-      "category_en": "analoumsy",
-      "category_ar": "analoumsy",
-      "totla": 1635
-    },
-    {
-      "category_en": "animisy",
-      "category_ar": "animisy",
-      "totla": 1303
-    },
-    {
-      "category_en": "asdiqaasy",
-      "category_ar": "asdiqaasy",
-      "totla": 1274
+      "category_en": "masaiyatsy",
+      "category_ar": "masaiyatsy",
+      "totla": 1016
     },
     {
       "category_en": "cimaasy",
@@ -41,9 +16,14 @@
       "totla": 2257
     },
     {
-      "category_en": "eidmiladsy",
-      "category_ar": "eidmiladsy",
-      "totla": 1310
+      "category_en": "islamiyatsy",
+      "category_ar": "islamiyatsy",
+      "totla": 6012
+    },
+    {
+      "category_en": "muhibbisuriyasy",
+      "category_ar": "muhibbisuriyasy",
+      "totla": 2175
     },
     {
       "category_en": "falastinsy",
@@ -56,19 +36,44 @@
       "totla": 4106
     },
     {
-      "category_en": "hayatsy",
-      "category_ar": "hayatsy",
-      "totla": 6704
-    },
-    {
       "category_en": "hobsy",
       "category_ar": "hobsy",
       "totla": 5286
     },
     {
-      "category_en": "islamiyatsy",
-      "category_ar": "islamiyatsy",
-      "totla": 6012
+      "category_en": "hayatsy",
+      "category_ar": "hayatsy",
+      "totla": 6704
+    },
+    {
+      "category_en": "analoumsy",
+      "category_ar": "analoumsy",
+      "totla": 1635
+    },
+    {
+      "category_en": "analabsy",
+      "category_ar": "analabsy",
+      "totla": 994
+    },
+    {
+      "category_en": "analakhtsy",
+      "category_ar": "analakhtsy",
+      "totla": 647
+    },
+    {
+      "category_en": "analakhsy",
+      "category_ar": "analakhsy",
+      "totla": 263
+    },
+    {
+      "category_en": "alwalidayinsy",
+      "category_ar": "alwalidayinsy",
+      "totla": 998
+    },
+    {
+      "category_en": "asdiqaasy",
+      "category_ar": "asdiqaasy",
+      "totla": 1274
     },
     {
       "category_en": "kibriyaaimraasy",
@@ -81,39 +86,9 @@
       "totla": 295
     },
     {
-      "category_en": "masaiyatsy",
-      "category_ar": "masaiyatsy",
-      "totla": 1016
-    },
-    {
-      "category_en": "mimzatsy",
-      "category_ar": "mimzatsy",
-      "totla": 1362
-    },
-    {
-      "category_en": "muhibbisuriyasy",
-      "category_ar": "muhibbisuriyasy",
-      "totla": 2175
-    },
-    {
-      "category_en": "mutheksy",
-      "category_ar": "mutheksy",
-      "totla": 1612
-    },
-    {
-      "category_en": "riadhsy",
-      "category_ar": "riadhsy",
-      "totla": 1859
-    },
-    {
-      "category_en": "sabahiyatsy",
-      "category_ar": "sabahiyatsy",
-      "totla": 3059
-    },
-    {
-      "category_en": "shiirsy",
-      "category_ar": "shiirsy",
-      "totla": 4372
+      "category_en": "eidmiladsy",
+      "category_ar": "eidmiladsy",
+      "totla": 1310
     },
 
     {
@@ -121,13 +96,36 @@
       "category_ar": "takharrujsy",
       "totla": 663
     },
-
+    {
+      "category_en": "shiirsy",
+      "category_ar": "shiirsy",
+      "totla": 4372
+    },
+    {
+      "category_en": "riadhsy",
+      "category_ar": "riadhsy",
+      "totla": 1859
+    },
     {
       "category_en": "zawajsy",
       "category_ar": "zawajsy",
       "totla": 924
+    },
+    {
+      "category_en": "animisy",
+      "category_ar": "animisy",
+      "totla": 1303
+    },
+    {
+      "category_en": "mimzatsy",
+      "category_ar": "mimzatsy",
+      "totla": 1362
+    },
+
+    {
+      "category_en": "mutheksy",
+      "category_ar": "mutheksy",
+      "totla": 1612
     }
-
-
   ]
 }
