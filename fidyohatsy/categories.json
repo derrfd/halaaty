@@ -1,133 +1,121 @@
 {
   "categories": [
     {
-      "category_en": "alwalidayinsy",
-      "category_ar": "alwalidayinsy",
-      "totla": 54
-    },
-    {
-      "category_en": "analabsy",
-      "category_ar": "analabsy",
-      "totla": 50
-    },
-    {
-      "category_en": "analakhsy",
-      "category_ar": "analakhsy",
-      "totla": 70
-    },
-    {
-      "category_en": "analakhtsy",
-      "category_ar": "analakhtsy",
-      "totla": 34
-    },
-    {
-      "category_en": "analoumsy",
-      "category_ar": "analoumsy",
-      "totla": 87
-    },
-    {
-      "category_en": "animisy",
-      "category_ar": "animisy",
-      "totla": 97
-    },
-    {
-      "category_en": "asdiqaasy",
-      "category_ar": "asdiqaasy",
-      "totla": 54
-    },
-    {
-      "category_en": "cimaasy",
-      "category_ar": "cimaasy",
-      "totla": 76
-    },
-    {
-      "category_en": "eidmiladsy",
-      "category_ar": "eidmiladsy",
-      "totla": 765
-    },
-    {
-      "category_en": "falastinsy",
-      "category_ar": "falastinsy",
-      "totla": 43
-    },
-    {
-      "category_en": "hawatersy",
-      "category_ar": "hawatersy",
-      "totla": 34
-    },
-    {
-      "category_en": "hayatsy",
-      "category_ar": "hayatsy",
-      "totla": 65
-    },
-    {
-      "category_en": "hobsy",
-      "category_ar": "hobsy",
-      "totla": 43
-    },
-    {
-      "category_en": "islamiyatsy",
-      "category_ar": "islamiyatsy",
-      "totla": 612
-    },
-    {
-      "category_en": "kibriyaaimraasy",
-      "category_ar": "kibriyaaimraasy",
-      "totla": 32
-    },
-    {
-      "category_en": "kibriyaarajulsy",
-      "category_ar": "kibriyaarajulsy",
-      "totla": 12
+      "category_en": "sabahiyatsy",
+      "category_ar": "صباحيات",
+      "total": 1065
     },
     {
       "category_en": "masaiyatsy",
-      "category_ar": "masaiyatsy",
-      "totla": 54
+      "category_ar": "مسائيات",
+      "total": 281
     },
     {
-      "category_en": "mimzatsy",
-      "category_ar": "mimzatsy",
-      "totla": 52
+      "category_en": "cimaasy",
+      "category_ar": "يوم الجمعة",
+      "total": 806
     },
     {
-      "category_en": "muhibbisuriyasy",
-      "category_ar": "muhibbisuriyasy",
-      "totla": 32
+      "category_en": "islamiyatsy",
+      "category_ar": "اسلاميات",
+      "total": 2001
     },
     {
-      "category_en": "mutheksy",
-      "category_ar": "mutheksy",
-      "totla": 65
+      "category_en": "falastinsy",
+      "category_ar": "فلسطينيات",
+      "total": 926
     },
     {
-      "category_en": "riadhsy",
-      "category_ar": "riadhsy",
-      "totla": 14
+      "category_en": "hawatersy",
+      "category_ar": "خواطر وعِبر",
+      "total": 1290
     },
     {
-      "category_en": "sabahiyatsy",
-      "category_ar": "sabahiyatsy",
-      "totla": 32
+      "category_en": "hobsy",
+      "category_ar": "حب وغرام",
+      "total": 1475
     },
     {
-      "category_en": "shiirsy",
-      "category_ar": "shiirsy",
-      "totla": 32
+      "category_en": "hayatsy",
+      "category_ar": "عن الحياة",
+      "total": 639
+    },
+    {
+      "category_en": "analoumsy",
+      "category_ar": "عن الأم",
+      "total": 322
+    },
+    {
+      "category_en": "analabsy",
+      "category_ar": "عن الأب",
+      "total": 250
+    },
+    {
+      "category_en": "analakhtsy",
+      "category_ar": "عن الأخت",
+      "total": 128
+    },
+    {
+      "category_en": "analakhsy",
+      "category_ar": "عن الأخ",
+      "total": 53
+    },
+    {
+      "category_en": "alwalidayinsy",
+      "category_ar": "عن الوالدين",
+      "total": 31
+    },
+    {
+      "category_en": "kibriyaaimraasy",
+      "category_ar": "كبرياء أُنثى",
+      "total": 705
+    },
+    {
+      "category_en": "kibriyaarajulsy",
+      "category_ar": "كبرياء رجُل",
+      "total": 140
+    },
+    {
+      "category_en": "eidmiladsy",
+      "category_ar": "عيد ميلاد",
+      "total": 348
     },
 
     {
       "category_en": "takharrujsy",
-      "category_ar": "takharrujsy",
-      "totla": 64
+      "category_ar": "عن التخرج",
+      "total": 345
+    },
+    {
+      "category_en": "shiirsy",
+      "category_ar": "شِعر عربي",
+      "total": 390
+    },
+    {
+      "category_en": "riadhsy",
+      "category_ar": "رياضة",
+      "total": 179
+    },
+    {
+      "category_en": "zawajsy",
+      "category_ar": "خطوبة وزواج",
+      "total": 212
+    },
+    {
+      "category_en": "animisy",
+      "category_ar": "أنِمي",
+      "total": 325
+    },
+    {
+      "category_en": "mimzatsy",
+      "category_ar": "ميمزات",
+      "total": 846
     },
 
     {
-      "category_en": "zawajsy",
-      "category_ar": "zawajsy",
-      "totla": 23
+      "category_en": "mutheksy",
+      "category_ar": "مُضحك",
+      "total": 982
     }
-
-
   ]
 }
