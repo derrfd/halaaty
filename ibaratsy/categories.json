@@ -2,12 +2,12 @@
   "categories": [
     {
       "category_en": "sabahiyatsy",
-      "category_ar": "sabahiyatsy",
+      "category_ar": "صباحيات",
       "total": 1548
     },
     {
       "category_en": "masaiyatsy",
-      "category_ar": "masaiyatsy",
+      "category_ar": "مسائيات",
       "total": 1269
     },
     {
@@ -22,57 +22,57 @@
     },
     {
       "category_en": "islamiyatsy",
-      "category_ar": "islamiyatsy",
+      "category_ar": "اسلاميات",
       "total": 1523
     },
     {
       "category_en": "hawatersy",
-      "category_ar": "hawatersy",
+      "category_ar": "خواطر وعِبر",
       "total": 1626
     }, 
     {
       "category_en": "hobsy",
-      "category_ar": "hobsy",
+      "category_ar": "حب وغرام",
       "total": 1556
     }, 
     {
       "category_en": "hayatsy",
-      "category_ar": "hayatsy",
+      "category_ar": "عن الحياة",
       "total": 1793
     },
     {
       "category_en": "kibriyaaimraasy",
-      "category_ar": "kibriyaaimraasy",
+      "category_ar": "كبرياء أُنثى",
       "total": 536
     },
     {
       "category_en": "kibriyaarajulsy",
-      "category_ar": "kibriyaarajulsy",
+      "category_ar": "كبرياء رجُل",
       "total": 364
     },
     {
       "category_en": "takharrujsy",
-      "category_ar": "takharrujsy",
+      "category_ar": "عن التخرج",
       "total": 1289
     },
     {
       "category_en": "shiirsy",
-      "category_ar": "shiirsy",
+      "category_ar": "شِعر عربي",
       "total": 280
     },
     {
       "category_en": "riadhsy",
-      "category_ar": "riadhsy",
+      "category_ar": "رياضة",
       "total": 294
     },
     {
       "category_en": "zawajsy",
-      "category_ar": "zawajsy",
+      "category_ar": "خطوبة وزواج",
       "total": 1102
     },
     {
       "category_en": "mutheksy",
-      "category_ar": "mutheksy",
+      "category_ar": "مُضحك",
       "total": 1114
     }
 
