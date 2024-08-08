@@ -1,64 +1,80 @@
 {
   "categories": [
     {
-      "category_en": "cimaasy",
-      "category_ar": "يوم الجمعة"
-    },
-    {
-      "category_en": "hobsy",
-      "category_ar": "hobsy"
-    },  
-    {
-      "category_en": "hawatersy",
-      "category_ar": "hawatersy"
-    },
-    {
-      "category_en": "zawajsy",
-      "category_ar": "zawajsy"
-    },
-    {
-      "category_en": "shiirsy",
-      "category_ar": "shiirsy"
-    },
-    {
       "category_en": "sabahiyatsy",
-      "category_ar": "sabahiyatsy"
-    },
-    {
-      "category_en": "riadhsy",
-      "category_ar": "riadhsy"
-    },
-    {
-      "category_en": "mutheksy",
-      "category_ar": "mutheksy"
-    },
-    {
-      "category_en": "muhibbisuriyasy",
-      "category_ar": "muhibbisuriyasy"
+      "category_ar": "sabahiyatsy",
+      "total": 1548
     },
     {
       "category_en": "masaiyatsy",
-      "category_ar": "masaiyatsy"
+      "category_ar": "masaiyatsy",
+      "total": 1269
     },
     {
-      "category_en": "kibriyaaimraasy",
-      "category_ar": "kibriyaaimraasy"
+      "category_en": "cimaasy",
+      "category_ar": "يوم الجمعة",
+      "total": 893
     },
     {
-      "category_en": "hayatsy",
-      "category_ar": "hayatsy"
+      "category_en": "muhibbisuriyasy",
+      "category_ar": "muhibbisuriyasy",
+      "total": 284
     },
     {
       "category_en": "islamiyatsy",
-      "category_ar": "islamiyatsy"
+      "category_ar": "islamiyatsy",
+      "total": 1523
+    },
+    {
+      "category_en": "hawatersy",
+      "category_ar": "hawatersy",
+      "total": 1626
+    }, 
+    {
+      "category_en": "hobsy",
+      "category_ar": "hobsy",
+      "total": 1556
+    }, 
+    {
+      "category_en": "hayatsy",
+      "category_ar": "hayatsy",
+      "total": 1793
+    },
+    {
+      "category_en": "kibriyaaimraasy",
+      "category_ar": "kibriyaaimraasy",
+      "total": 536
     },
     {
       "category_en": "kibriyaarajulsy",
-      "category_ar": "kibriyaarajulsy"
+      "category_ar": "kibriyaarajulsy",
+      "total": 364
     },
     {
       "category_en": "takharrujsy",
-      "category_ar": "takharrujsy"
+      "category_ar": "takharrujsy",
+      "total": 1289
+    },
+    {
+      "category_en": "shiirsy",
+      "category_ar": "shiirsy",
+      "total": 280
+    },
+    {
+      "category_en": "riadhsy",
+      "category_ar": "riadhsy",
+      "total": 294
+    },
+    {
+      "category_en": "zawajsy",
+      "category_ar": "zawajsy",
+      "total": 1102
+    },
+    {
+      "category_en": "mutheksy",
+      "category_ar": "mutheksy",
+      "total": 1114
     }
+
   ]
 }
