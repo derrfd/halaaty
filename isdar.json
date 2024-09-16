@@ -1,8 +1,4 @@
-[
-    {
-        "isdar": 2
-    },
-    {
-        "check": "false"
-    }
-]
+{
+    "isdar": 2,
+    "check": "false"
+}
