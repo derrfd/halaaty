@@ -1,5 +1,6 @@
 {
     "isdar": 15,
     "check": "false",
+    "showAds": "true",
     "adTimer": 3
 }
