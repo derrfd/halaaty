@@ -2,5 +2,6 @@
     "isdar": 16,
     "check": "true",
     "showAds": "true",
+    "adTimerForShare": "1",
     "adTimer": 3
 }
