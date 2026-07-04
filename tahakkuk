@@ -1,7 +1,7 @@
 {
     "isdar": 16,
     "check": "true",
-    "showAds": "false",
+    "showAds": "true",
     "adTimerForShare": 1,
     "adTimer": 3
 }
